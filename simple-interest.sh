@@ -7,7 +7,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# xaxpero
+# xaspero
 
 # Input:
 # p, principal amount
